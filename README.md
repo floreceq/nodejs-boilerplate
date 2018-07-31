@@ -1,1 +1,1 @@
-# nodejs-boilerplate
+# nodejs-express-passport-boilerplate
